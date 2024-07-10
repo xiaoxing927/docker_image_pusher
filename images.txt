@@ -1,6 +1,6 @@
-
+alpine
 #支持私库
-python:alpine3:3.19
+python:alpine3.19
 kasmweb/nginx:1.25.3
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
