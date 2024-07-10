@@ -3,6 +3,5 @@ alpine
 python:alpine3.19
 kasmweb/nginx:1.25.3
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 redis:7.0.15-alpine3.20
 --platform=linux/arm/V7 redis:7.0.15-alpine3.20
